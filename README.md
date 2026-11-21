@@ -1,7 +1,7 @@
 # worldgeneration by pm1e
 an world generation for nukkit pm1e <br />
 this repo is constants ai Generate code (a bit) <br />
-now using jetpack.oi for making this ([click here for view the nukkit pm1e jetpack.oi](https://jitpack.io/#PetteriM1/NukkitPetteriM1Edition/tags)) 
+now using jitpack.oi for making this ([click here for view the nukkit pm1e jitpack.oi](https://jitpack.io/#PetteriM1/NukkitPetteriM1Edition/tags)) 
 # update
 - fix bug at perlin noise
 - 100k-1b block away Infinite ocean FIXED
