@@ -20,7 +20,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>cn.nukkit</groupId>
+            <groupId>com.github.petterim1</groupId>
             <artifactId>NukkitPetteriM1Edition</artifactId>
             <version>4567</version>
             <scope>provided</scope>
